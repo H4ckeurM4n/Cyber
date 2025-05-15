@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/afd8b227-d405-4159-95ee-152c77a958fe)
 
 
-## DNS QUestion name
+## DNS Question name
 - Chercher dans champ : dns.question.name > Visualize
 - Faire donut ou camembert 
 - Nombre valeurs 20
