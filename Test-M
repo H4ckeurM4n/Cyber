@@ -1,17 +1,9 @@
 Bonjour,
 
-Suite à la question posée, la prise de poste depuis un pays étranger, quel qu’il soit, n’est pas autorisée.
+Nous avons constaté que le fichier .msi fourni est en version 10.8, tandis que la version actuellement disponible sur le site officiel de la Banque de France est 10.8-R10. Cette différence de version ne nous permet pas de garantir l’intégrité du fichier, notamment par le biais d’une vérification de l’empreinte numérique (hash), qui pourrait différer entre les deux versions.
 
-Même au sein de l’Union européenne, où certaines contraintes peuvent sembler moindres, les risques restent significatifs : en cas de vol, les démarches de déclaration et de suivi peuvent s’avérer particulièrement délicates, compte tenu de la nature sensible de notre service.
+Par mesure de sécurité et de conformité, nous recommandons de télécharger directement la dernière version depuis le site officiel de la Banque de France. Cela permet de s’assurer que l’empreinte fournie correspond bien à celle attendue, limitant ainsi les risques liés à une éventuelle altération ou compromission du fichier.
 
-Aux douanes, les contrôles peuvent aboutir à des demandes d’accès, voire à des saisies de matériel.
-
-Il est également important de noter qu’un poste de travail chiffré peut être perçu comme suspect par certaines autorités étrangères, entraînant interrogations ou blocages. Dans certains pays, l’usage du chiffrement est même interdit ou strictement encadré, ce qui expose à des complications juridiques ou à des sanctions.
-
-En cas de compromission, notamment si le poste est saisi ou intercepté par un service étranger, les garanties offertes par le chiffrement peuvent ne pas suffire, avec un risque d’accès aux données sensibles.
-
-Dès lors qu’un poste sort du territoire national, nous perdons toute emprise sur son environnement technique, juridique et opérationnel. Cela concerne aussi bien les réseaux utilisés, les accès physiques potentiels, que les capacités de réaction ou d’investigation en cas d’incident. Cette perte de maîtrise est incompatible avec les exigences de sécurité qui s’appliquent à notre service.
-
-Pour l’ensemble de ces raisons, cette modalité de travail ne peut être envisagée.
+Restant à disposition pour toute précision complémentaire.
 
 Bien cordialement,
