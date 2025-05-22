@@ -67,13 +67,15 @@ DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/resu
 
 Baidu - http://www.baidu.com/
 
-### Image OSINT
+### Image & Location OSINT/GEOINT
 
 Google Image Search - https://images.google.com
 
 Yandex - https://yandex.com
 
 TinEye - https://tineye.com
+
+GeoGuessr tips : https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/ 
 
 ### Email OSINT
 
