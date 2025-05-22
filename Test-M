@@ -1,0 +1,19 @@
+Bonjour,
+
+Nous avons constaté que le fichier .msi fourni est en version 10.8, tandis que la version actuellement disponible sur le site officiel de la Banque de France est 10.8-R10. Cette différence de version ne nous permet pas de garantir l’intégrité du fichier, notamment par le biais d’une vérification de l’empreinte numérique (hash), qui pourrait différer entre les deux versions.
+
+Par mesure de sécurité et de conformité, nous recommandons de télécharger directement la dernière version depuis le site officiel de la Banque de France. Cela permet de s’assurer que l’empreinte fournie correspond bien à celle attendue, limitant ainsi les risques liés à une éventuelle altération ou compromission du fichier.
+
+Restant à disposition pour toute précision complémentaire.
+
+Bien cordialement,
+
+Bonjour [Prénom],
+
+Après analyse du fichier .msi transmis, il s’avère qu’il est en version 10.8, tandis que la version disponible sur le site officiel de la Banque de France est estampillée 10.8-R10. Cette divergence empêche toute vérification fiable de l’intégrité via empreinte numérique, faute de hash de référence correspondant à la version reçue.
+
+Dans ce contexte, et conformément aux bonnes pratiques de la chaîne de confiance, je recommande de privilégier le téléchargement du fichier directement depuis le site officiel. Cela permet de garantir que l’empreinte cryptographique (type SHA256, si disponible) correspond bien à celle attendue et limite les risques liés à une compromission ou à une version obsolète.
+
+Je reste disponible si besoin pour automatiser les vérifications d’empreintes ou formaliser ce point dans notre procédure de validation logicielle.
+
+Bien cordialement,
