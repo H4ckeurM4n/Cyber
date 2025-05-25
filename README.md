@@ -226,6 +226,18 @@ GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
 
 ### Additional Resources
 
+Bellingcat ressources : https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks
+
+Global Investigative Journalism Network (Guides, articles...) : https://gijn.org/resource/
+
+Exposing the invisible : https://exposingtheinvisible.org/en
+
+Amnesty formation : https://advocacyassembly.org/en/partners/amnesty
+
+Witness : https://vae.witness.org/video-as-evidence-field-guide/
+
+BendoBrown (Tuto pas à pas) : https://www.youtube.com/watch?v=qW96515QG6Y&list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy
+
 TraceLabs - https://www.tracelabs.org/
 
 Innocent Lives Foundation - https://www.innocentlivesfoundation.org/
@@ -235,3 +247,9 @@ Alethe Denis - https://twitter.com/AletheDenis
 Joe Gray - https://twitter.com/C_3PJoe
 
 IntelTechniques - https://inteltechniques.com/
+
+### Books
+
+Verification Handbook For Disinformation And Media Manipulation : https://datajournalism.com/read/handbook/verification-3
+
+IntellTechnique : https://inteltechniques.com/tools/index.html
