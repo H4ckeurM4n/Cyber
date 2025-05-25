@@ -248,6 +248,8 @@ Joe Gray - https://twitter.com/C_3PJoe
 
 IntelTechniques - https://inteltechniques.com/
 
+Parcours de formation : https://www.tactical-osint-academy.com/analyste-osint-niveau-1 & https://www.tactical-osint-academy.com/analyste-osint-niveau-2
+
 ### Books
 
 Verification Handbook For Disinformation And Media Manipulation : https://datajournalism.com/read/handbook/verification-3
