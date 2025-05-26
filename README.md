@@ -228,6 +228,8 @@ GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
 
 Bellingcat ressources : https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks
 
+OSINT - OPSEC : https://osint-opsec.fr/
+
 Global Investigative Journalism Network (Guides, articles...) : https://gijn.org/resource/
 
 Exposing the invisible : https://exposingtheinvisible.org/en
