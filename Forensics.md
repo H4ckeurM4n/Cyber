@@ -1,5 +1,7 @@
 # Linux Forensics
 
+[📄 Linux Forensics Cheatsheet (PDF)](./Linux-Forensics-Cheatsheet.pdf)
+
 ## OS et information compte
 
 * **OS informations**
