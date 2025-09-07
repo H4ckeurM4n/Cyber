@@ -200,3 +200,35 @@ f
   ```
 
   * Chaque service/appli a ses propres logs
+
+### Processus/Services
+
+- systemctl → gérer systemd et ses units (services, timers, sockets, etc.). “commande d’administration” : démarrer/arrêter, activer au boot, vérifier l’état.
+
+```bash
+systemctl (gestion) 
+
+sudo systemctl status nginx
+sudo systemctl start nginx
+sudo systemctl stop nginx
+sudo systemctl restart nginx
+sudo systemctl enable nginx     # démarrer au boot
+sudo systemctl disable nginx
+sudo systemctl is-active nginx  # actif/inactif ?
+sudo systemctl is-enabled nginx # activé au boot ?
+sudo systemctl list-units --type=service
+
+```
+
+- journalctl → consulter les journaux collectés par systemd-journald.
+“visionneuse de logs” : filtre par service, priorité, période, boot, etc.
+
+```bash
+journalctl (logs) 
+
+sudo journalctl -u nginx.service           # logs de nginx
+sudo journalctl -u nginx.service -f        # en temps réel
+sudo journalctl -p err                     # erreurs et + grave
+sudo journalctl -b                         # logs du boot courant
+sudo journalctl -S "2024-09-01" -U "now"   # fenêtre temporelle
+```
