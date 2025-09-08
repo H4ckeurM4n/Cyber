@@ -1,1 +1,13 @@
+Process en cours à supprimer
+Vérifier écriture en temps réel : tail -f /var/log/program
+
+Qui écrit sur fichier : lsof /var/log/program
+
+Repère service derrière PID : systemctl status PID 
+
+Stopper proprement : sudo kill PID
+
+Services systemd et éviter qu'il se relance si cron : 
+	- sudo systemctl stop nom_service
+	- sudo systemctl disable nom_service
 
