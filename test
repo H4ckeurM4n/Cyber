@@ -1,0 +1,8 @@
+Je recommande de ne pas valider cette approche.
+
+Nous avons déjà expérimenté un dispositif similaire dans le service XLS : cela a généré des difficultés d’exploitation et, surtout, une impossibilité d’imputabilité et une traçabilité insuffisante. fondamentaux (CIDT).
+
+Pourquoi le compte générique pose problème
+	•	Imputabilité impossible : on ne peut pas établir qui a rejoint une réunion, partagé un document, modifié un paramètre ou déclenché un enregistrement.
+	•	Traçabilité dégradée : tous les logs techniques remontent le même identifiant ; en cas d’incident, l’enquête et les mesures correctives deviennent très compliquées.
+Conformité : ce modèle est contraire aux exigences d’authentification nominative et de journalisation.
